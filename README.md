@@ -123,7 +123,7 @@ Program **Python, Java, dan C++** menerima input dari pengguna melalui terminal,
 ## CPP
 
 #### Tambah Data
-<img width="1340" height="694" alt="Tambah Data" src="https://github.com/user-attachments/assets/eacb5f85-402a-4213-8959-938220660eb9" />
+[![Dokumentasi](Dokumentasi/CPP/Tambah Data.png)](Dokumentasi/)
 
 
 
