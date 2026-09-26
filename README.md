@@ -5,7 +5,6 @@ Saya Raffi Akbar Ardiansyah dengan NIM 2511604 mengerjakan Tugas Praktikum 2 dal
 ## Struktur File
 
 ```text
-TP2DPBO2526C1
 ├── CPP
 │   ├── Produk.cpp
 │   ├── Buku.cpp
