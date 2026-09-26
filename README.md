@@ -88,7 +88,9 @@ Program ini menggunakan konsep **Multilevel Inheritance** dengan tiga class yang
 
 ---
 
-## Alur Program
+##  Desain dan Alur Program
+![Tambah Data CPP](Diagram.png)
+
 
 Program diawali dengan membuat **5 objek komik sebagai data awal**. Setiap objek memiliki data dari ketiga class, yaitu data umum dari `Produk`, data buku dari `Buku`, dan data khusus dari `Komik`.
 
