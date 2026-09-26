@@ -48,10 +48,9 @@ Saya Raffi Akbar Ardiansyah dengan NIM 2511604 mengerjakan Tugas Praktikum 2 dal
 
 3. Komik: Dipilih sebagai turunan dari Buku karena komik merupakan salah satu jenis buku. Komik tetap memiliki seluruh informasi dari Produk dan Buku, tetapi juga membutuhkan informasi khusus seperti genre, jumlah halaman, dan volume.
 
-Ketiga class tersebut memiliki hubungan **Multilevel Inheritance**, yaitu Produk → Buku → Komik. Hubungan ini sesuai karena semakin ke bawah, class menjadi semakin spesifik dari class sebelumnya.
-
 
 Hubungan ketiga class menggunakan Multilevel Inheritance, yaitu Produk menjadi parent dari Buku, kemudian Buku menjadi parent dari Komik.
+
 ## Class dan Atribut
 
 Program ini menggunakan konsep **Multilevel Inheritance** dengan tiga class yang saling berhubungan, yaitu `Produk`, `Buku`, dan `Komik`. `Produk` merupakan base class, `Buku` merupakan turunan dari `Produk`, dan `Komik` merupakan turunan dari `Buku`.
@@ -116,7 +115,58 @@ Setelah data awal dibuat, program menampilkan **menu utama** yang terdiri dari t
 
 Secara keseluruhan, alur program adalah **Program dimulai → Membuat 5 data komik awal → Menampilkan menu → Pengguna memilih menu → Menambahkan data atau menampilkan data → Kembali ke menu → Keluar dari program**.
 
-Program **Python, Java, dan C++** menerima input dari pengguna melalui terminal, sedangkan **PHP** menggunakan `index.php` sebagai halaman utama untuk menampilkan dan menambahkan data komik. Setiap bahasa juga memiliki `testcase.txt` yang digunakan sebagai contoh input untuk pengujian program.\
+Program **Python, Java, dan C++** menerima input dari pengguna melalui terminal, sedangkan **PHP** menggunakan `index.php` sebagai halaman utama untuk menampilkan dan menambahkan data komik. Setiap bahasa juga memiliki `testcase.txt` yang digunakan sebagai contoh input untuk pengujian program.
 
 
 ## Dokumentasi
+
+## CPP
+
+#### Tambah Data
+<img width="1340" height="694" alt="Tambah Data" src="https://github.com/user-attachments/assets/eacb5f85-402a-4213-8959-938220660eb9" />
+
+
+
+
+
+#### Tampilkan Data
+<img width="1273" height="429" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/16ea2cc6-ec09-4221-aa00-fd265a2112de" />
+
+
+
+
+## Java
+
+#### Tambah Data
+<img width="1340" height="694" alt="Tambah Data" src="https://github.com/user-attachments/assets/4a2913fd-e587-42df-b0c7-13f7feeba217" />
+
+
+
+#### Tampilkan Data
+<img width="1273" height="429" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/e58539d9-d5dd-42bd-9e06-a850cae20622" />
+
+## Python
+
+#### Tambah Data
+<img width="1340" height="694" alt="Tambah Data" src="https://github.com/user-attachments/assets/7bfb7ab2-58a6-4553-bae9-d3bc7fe4cf2d" />
+
+
+#### Tampilkan Data
+<img width="1273" height="429" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/21c89733-0c71-4420-9060-546547fc74f2" />
+
+## PHP
+
+#### Tampilan Awal
+<img width="1919" height="992" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/136b7e3d-9856-4d39-8fe2-4f632fabc7d5" />
+
+
+#### Tambah Data
+<img width="1919" height="987" alt="Tambah Data" src="https://github.com/user-attachments/assets/2bf04585-d3a2-4d7c-b38e-68f5633122fc" />
+
+
+#### Tampilkan Data
+<img width="1898" height="990" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/6e319c11-6f20-48d2-818c-901937d1aa17" />
+
+
+
+
