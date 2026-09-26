@@ -123,14 +123,14 @@ Program **Python, Java, dan C++** menerima input dari pengguna melalui terminal,
 ## CPP
 
 #### Tambah Data
-[![Dokumentasi](Dokumentasi/CPP/Tambah Data.png)](Dokumentasi/)
+![Tambah Data CPP](Dokumentasi/CPP/Tambah%20Data.png)
 
 
 
 
 
 #### Tampilkan Data
-<img width="1273" height="429" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/16ea2cc6-ec09-4221-aa00-fd265a2112de" />
+![Tampilkan Data CPP](Dokumentasi/CPP/Tampilkan%20Data.png)
 
 
 
@@ -138,34 +138,33 @@ Program **Python, Java, dan C++** menerima input dari pengguna melalui terminal,
 ## Java
 
 #### Tambah Data
-<img width="1340" height="694" alt="Tambah Data" src="https://github.com/user-attachments/assets/4a2913fd-e587-42df-b0c7-13f7feeba217" />
-
+![Tambah Data Java](Dokumentasi/Java/Tambah%20Data.png)
 
 
 #### Tampilkan Data
-<img width="1273" height="429" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/e58539d9-d5dd-42bd-9e06-a850cae20622" />
+![Tampilkan Data Java](Dokumentasi/Java/Tampilkan%20Data.png)
 
 ## Python
 
 #### Tambah Data
-<img width="1340" height="694" alt="Tambah Data" src="https://github.com/user-attachments/assets/7bfb7ab2-58a6-4553-bae9-d3bc7fe4cf2d" />
+![Tambah Data Python](Dokumentasi/Python/Tambah%20Data.png)
 
 
 #### Tampilkan Data
-<img width="1273" height="429" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/21c89733-0c71-4420-9060-546547fc74f2" />
+![Tampilkan Data Python](Dokumentasi/Python/Tampilkan%20Data.png)
 
 ## PHP
 
 #### Tampilan Awal
-<img width="1919" height="992" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/136b7e3d-9856-4d39-8fe2-4f632fabc7d5" />
+![Tampilkan Data PHP](Dokumentasi/PHP/Tampilan%20Awal.png)
 
 
 #### Tambah Data
-<img width="1919" height="987" alt="Tambah Data" src="https://github.com/user-attachments/assets/2bf04585-d3a2-4d7c-b38e-68f5633122fc" />
+![Tambah Data PHP](Dokumentasi/PHP/Tambah%20Data.png)
 
 
 #### Tampilkan Data
-<img width="1898" height="990" alt="Tampilkan Data" src="https://github.com/user-attachments/assets/6e319c11-6f20-48d2-818c-901937d1aa17" />
+![Tampilkan Data PHP](Dokumentasi/PHP/Tampilkan%20Data.png)
 
 
 
